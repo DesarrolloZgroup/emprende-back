@@ -3,9 +3,10 @@ const http = require("http")
 
 function requestController(){
     //logica
-    console.log("recibimos una nueva request")
-    console.log({global})
-    console.log({dir : __dirname})
+    console.log("recibimos una nueva request !!!!")
+    
+    //console.log({global})
+    //console.log({dir : __dirname})
 
 }
 //configurar nuestro servidor 

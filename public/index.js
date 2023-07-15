@@ -69,7 +69,7 @@ getBtn.addEventListener("click",function(){
 */
 //const baseBackendURL = "http://localhost:4000/api"
 const baseBackendURL = `${window.origin}/api`
-console.log({window ,baseBackendURL})
+//console.log({window ,baseBackendURL})
 
 let TASK_TO_EDIT = null
 
